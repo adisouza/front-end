@@ -5,8 +5,8 @@ import {read,utils} from 'xlsx'
 const baseUrl = 'https://localhost:44378/'
 const headerProps={
     icon: 'users',
-    title: 'Clientes',
-    subtitle: 'Cadastrar, deletar, atualizar e consultar clientes'
+    title: 'Filmes',
+    subtitle: 'Cadastrar, deletar, atualizar e consultar Filmes'
     
     }
 
